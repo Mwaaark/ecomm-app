@@ -1,14 +1,14 @@
 {
   "name": "ecomm-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "E-commerce app built with NodeJS",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mark Robert Bumatay",
   "license": "ISC",
   "dependencies": {
     "cookie-session": "^1.4.0",
